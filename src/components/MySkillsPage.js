@@ -96,10 +96,8 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> Designer
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
-</Description>
+Eu gosto de criar websites com design simples</Description>
 <Description>
-<strong>I like to Design</strong>
 <ul>
     <li>
         Web Design
@@ -130,7 +128,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, php etc.
 </p>
 </Description>
 <Description>
