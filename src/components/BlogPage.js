@@ -5,7 +5,6 @@ import LogoComponent from '../subComponents/LogoComponent'
 import SocialIcons  from '../subComponents/SocialIcons'
 import PowerButton  from '../subComponents/PowerButton'
 
-import {Blogs} from '../data/BlogData';
 import BlogComponent from './BlogComponent'
 import AnchorComponent from '../subComponents/Anchor'
 import BigTitle from "../subComponents/BigTitlte"
@@ -80,17 +79,6 @@ const BlogPage = () => {
                 <PowerButton />
                 <SocialIcons />
                 <AnchorComponent number={numbers}/>
-<Center>
-<Grid>
-
-{
-    Blogs.map(blog => {
-        return <BlogComponent key={blog.id} blog={blog} />
-    })
-}
-</Grid>
-
-</Center>
 <BigTitle text="BLOG" top="5rem" left="5rem" />
             </Container>
         </MainContainer>

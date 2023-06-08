@@ -96,10 +96,10 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> Designer
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+Gosto de criar um design que fale, mantenha-o limpo, mínimo e simples.
 </Description>
 <Description>
-<strong>I like to Design</strong>
+<strong>Eu Gosto de Design</strong>
 <ul>
     <li>
         Web Design
@@ -125,18 +125,18 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+Valorizo ​​o negócio ou marca para o qual estou a criar, por isso gosto de dar vida a novas ideias.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, php, Bootstrap, Tailwind etc.
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen etc.
+VScode, Github,  etc.
 </p>
 </Description>
 
