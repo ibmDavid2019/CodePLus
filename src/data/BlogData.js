@@ -6,6 +6,7 @@ import SocialIcons  from '../subComponents/SocialIcons'
 import PowerButton  from '../subComponents/PowerButton'
 
 import {Blogs} from '../data/BlogData';
+import WorkData from './WorkData'
 import BlogComponent from './BlogComponent'
 import AnchorComponent from '../subComponents/Anchor'
 import BigTitle from "../subComponents/BigTitlte"
